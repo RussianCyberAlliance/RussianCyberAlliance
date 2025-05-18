@@ -19,11 +19,11 @@
 ### ⚡ Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=russiandcyberalliance&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=russiancyberalliance&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russiandcyberalliance&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russiancyberalliance&theme=tokyonight" alt="Streak" />
 </p>
 
 ---
