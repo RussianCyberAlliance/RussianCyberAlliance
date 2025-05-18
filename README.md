@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👋 Привет 👋</h1>
 
-<!--
-**RussianCyberAlliance/RussianCyberAlliance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🛠 Разработчик
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Пишу+ботов" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Немного обо мне
+
+- 🧰 В работе: `Python`, `Aiogram`, `JavaScript`, `Vue`, `HTML+CSS`, `Discord.py`, `Disnake`, `Node.js`
+
+---
+
+### ⚡ Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karlson64&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlson64&theme=tokyonight" alt="Streak" />
+</p>
+
+---
+
+### 📫 Контакты
+
+- Telegram: [@lotoscam](https://t.me/lotoscam)
+- Discord: `lotoscam`
+
+---
+
+### 🧪 Репозитории worth checking:
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" />
+</p>
