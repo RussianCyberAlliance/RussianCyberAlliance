@@ -19,18 +19,18 @@
 ### ⚡ Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RussiandCyberAlliance&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=russiandcyberalliance&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RussiandCyberAlliance&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russiandcyberalliance&theme=tokyonight" alt="Streak" />
 </p>
 
 ---
 
 ### 📫 Контакты
 
-- Telegram: [@lotoscam](https://t.me/RussiandCyberAlliance)
+- Telegram: [@RussiandCyberAlliance](https://t.me/RussiandCyberAlliance)
 - Discord: `RussiandCyberAlliance`
 
 ---
